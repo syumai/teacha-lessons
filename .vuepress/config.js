@@ -36,6 +36,7 @@ module.exports = {
     ],
     sidebar: {
       '/create-dev-environment/': ['', 'windows', 'mac'],
+      '/terminal-basics/': [''],
     },
   },
 };
