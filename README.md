@@ -6,4 +6,4 @@
 
 ## Slack
 
-https://teacha-js-school.slack.com/
+[https://teacha-js-school.slack.com/](https://teacha-js-school.slack.com/)

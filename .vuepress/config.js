@@ -44,6 +44,7 @@ module.exports = {
         'nvm-windows',
       ],
       '/terminal-basics/': [''],
+      '/js-basics/': ['', 'running-first-program', 'basics-01'],
     },
   },
 };
