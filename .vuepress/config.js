@@ -35,7 +35,14 @@ module.exports = {
       },
     ],
     sidebar: {
-      '/create-dev-environment/': ['', 'windows', 'mac'],
+      '/create-dev-environment/': ['', 'mac', 'windows'],
+      '/create-js-dev-environment/': [
+        '',
+        'mac',
+        'nvm',
+        'windows',
+        'nvm-windows',
+      ],
       '/terminal-basics/': [''],
     },
   },

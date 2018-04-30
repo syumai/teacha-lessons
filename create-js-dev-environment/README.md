@@ -1,13 +1,11 @@
-# JS開発環境構築ガイド
+# JS 開発環境構築ガイド
 
-## レッスン概要
+## 概要
 
-* JavaScriptでのWebアプリ開発の環境構築をサポートします
+* JavaScript での Web アプリ開発の環境構築手順をガイドします
 
 ## 内容
 
-* Homebrew / Chocolateyなどのパッケージマネージャの導入
-* nvmを使用したNode.jsのバージョン管理システムの導入
-* Node.js / npmの基本的な使い方
-* vue-cliを使用した簡単なVue.jsアプリケーションの開発 
-
+* nvm を使用した Node.js のバージョン管理システムの導入
+* Node.js / npm の基本的な使い方
+* vue-cli を使用した簡単な Vue.js アプリケーションの開発

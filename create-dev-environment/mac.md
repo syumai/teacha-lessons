@@ -8,13 +8,14 @@
 
 * [Homebrew](https://brew.sh/index_ja)
 * [Homebrew cask](https://caskroom.github.io/)
+* git
 
 ## なぜ導入するのか
 
 ### Homebrew
 
 * **Mac で Web 開発するならほぼ必須。**
-* `brew install node`などの、簡単なコマンドでアプリケーションをインストール出来るようになる
+* `brew install git`などの、簡単なコマンドでアプリケーションをインストール出来るようになる
 * 各サイトにインストーラーを DL しに行かなくていいので楽
 * アンインストールも簡単
 * 更新も簡単
